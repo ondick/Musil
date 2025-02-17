@@ -3,14 +3,14 @@ public class Main {
     static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
-        /*
+
         //Úkol a
         String [] pole = {"Kuba", "Štěpán", "Michal", "Jirka","Tomáš"};
         for(int i=0; i<pole.length; i++){
             System.out.print(pole[i]+"-");
-        }*/
+        }
         //úkol b
-        /*
+
         int N;
         double[] znamky;
         System.out.print("Napiš kolik čísel bude v poli: ");
@@ -31,7 +31,7 @@ public class Main {
         else {
             System.out.println("Číslo musí být mezi 1-"+N);
         }
-        */
+
         //úkol c
         Kamarad [] kamos = new Kamarad[3];
         for (int i = 0; i < kamos.length; i++) {
